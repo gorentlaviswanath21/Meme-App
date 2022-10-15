@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="widthViewPager">280dp</dimen>
+    <dimen name="heightViewPager">420dp</dimen>
+    <dimen name="widthMemeImage">300dp</dimen>
+    <dimen name="heightMemeImage">300dp</dimen>
+    <dimen name="textTitle">24sp</dimen>
+    <dimen name="widthTitle">300dp</dimen>
+    <dimen name="heightTitle">100dp</dimen>
+    <dimen name="button_text_size">30sp</dimen>
+    <dimen name="margin">60dp</dimen>
+    <dimen name="button_marginEnd">56dp</dimen>
+    <dimen name="button_width">50dp</dimen>
+    <dimen name="button_height">60dp</dimen>
+    <dimen name="prev_button_marginStart">83dp</dimen>
+    <dimen name="prev_button_marginTop">42dp</dimen>
+    <dimen name="prev_button_marginBottom">35dp</dimen>
+    <dimen name="next_button_marginStart">150dp</dimen>
+    <dimen name="next_button_marginTop">82dp</dimen>
+    <dimen name="next_button_marginBottom">10dp</dimen>
+</resources>

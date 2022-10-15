@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PS_MemeApp</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="prev"><![CDATA[<]]></string>
+    <string name="next"><![CDATA[>]]></string>
+</resources>
